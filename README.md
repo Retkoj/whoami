@@ -1,3 +1,7 @@
+Simple implementation of 'whoami' in a webpage.
+prints out user's IP and system.
+
+
 Welcome to the Glitch BETA
 =========================
 
